@@ -1,6 +1,6 @@
 requests == 2.32.2
 googletrans==4.0.0rc1
-dotenv==1.1.0
+python-dotenv==1.0.0
 typing-inspection==0.4.0
 typing_extensions==4.13.2
 urllib3==2.4.0
